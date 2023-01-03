@@ -1,0 +1,30 @@
+#container {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+body {
+    background-color: black;
+}
+
+#post {
+    background-color: yellow;
+}
+
+#header {
+    background-color: green;
+    display: flex;
+
+}
+
+#htmlLogo {
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: brown;
+}
