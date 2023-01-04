@@ -6,6 +6,7 @@
     margin-bottom: 10%;
     margin-left: 35%;
     margin-right: 35%;
+    width: 450px;
 }
 
 body {
@@ -13,18 +14,60 @@ body {
 }
 
 #post {
-    background-color: yellow;
+    background-color: white;
 }
 
 #header {
-    background-color: green;
     display: flex;
 
 }
 
 #htmlLogo {
-    margin-top: 20px;
+    margin-top: 10px;
     margin-left: 10px;
     margin-right: 10px;
-    background-color: brown;
+    margin-bottom: 10px;
+    font-size: 200%;
+}
+
+p {
+    margin: 0;
+}
+
+#actualHeader {
+    margin-top: 10px;
+}
+
+#threeDots {
+    margin-top: 10px;
+    margin-left: 300px;
+    font-size: 180%;
+}
+
+#icons {
+    display: flex;
+}
+
+#leftIcons {
+    font-size: 150%;
+    width: 150px;
+    margin-left: 10px;
+}
+
+#rightIcon {
+    font-size: 150%;
+    margin-left: 230px;
+}
+
+#pic {
+    width: 100%;
+    height: auto;
+}
+
+#likes {
+    margin-left: 10px;
+}
+
+#description {
+    margin-left: 10px;
 }
